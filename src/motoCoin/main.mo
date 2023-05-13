@@ -60,8 +60,7 @@ actor Motocoin {
         };
         return #ok();
     };
-
-    // TODO ??
+    
     func getAllStudentsPrincipal() : async [Principal] {
         let buff = Buffer.Buffer<Principal>(0);
         for (account in ledger.keys()) {
