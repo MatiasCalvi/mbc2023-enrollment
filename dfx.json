@@ -15,6 +15,10 @@
   "student_wall": {   
     "main": "src/student_wall/main.mo",
     "type": "motoko"
+  },
+  "motoCoin": {   
+    "main": "src/motoCoin/main.mo",
+    "type": "motoko"
   }
  }
 }
