@@ -1,0 +1,20 @@
+{
+   "canisters": {
+    "first_canister": {
+    "main": "src/first_canister/main.mo",
+    "type": "motoko"
+  },
+  "calculator": {
+    "main": "src/calculator/main.mo",
+    "type": "motoko"
+  },
+  "homeWork": {   
+    "main": "src/homeWork/main.mo",
+    "type": "motoko"
+  },
+  "student_wall": {   
+    "main": "src/student_wall/main.mo",
+    "type": "motoko"
+  }
+ }
+}
